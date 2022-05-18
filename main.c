@@ -187,7 +187,7 @@ int main(int argc,char** argv)
 		fclose(fileptr);	
 
 	}
-	else if(argv[1][1]=='n')		//options[n] is same as that of argv[1][n]
+	else if(argv[1][1]=='n')
 	{
 		int c;
 		lines_of_each_block=string_to_number(*(argv+2));
