@@ -1,7 +1,4 @@
-# Linumiz_C_assessment_2 Joe Xavier
-Linumiz_C_assessment_2
-Author: Joe Claiment Raja Xavier
-email: x.joeclament@gmail.com
+# Split Implementation in C
 
 This C program splits the input file into multiple files of specified sizes or lines.
 
